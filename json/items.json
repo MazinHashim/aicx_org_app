@@ -1,0 +1,74 @@
+[
+    {
+        "id": 20,
+        "item": "Ethernet Cable",
+        "Cat": "Network",
+        "quantity": "50",
+        "InvNum": "",
+        "Brand": "inflink",
+        "Model": "15E",
+        "Specification": "blue color",
+        "Status": "new - stored",
+        "location": "Logical Office"
+    },
+    {
+        "id": 21,
+        "item": "Table",
+        "Cat": "Fearnture",
+        "quantity": "50",
+        "InvNum": "",
+        "Brand": "inflink",
+        "Model": "15E",
+        "Specification": "blue color",
+        "Status": "new - stored",
+        "location": "Logical Office"
+    },
+    {
+        "id": 22,
+        "item": "Router",
+        "Cat": "Network",
+        "quantity": "50",
+        "InvNum": "",
+        "Brand": "inflink",
+        "Model": "15E",
+        "Specification": "blue color",
+        "Status": "new - stored",
+        "location": "Logical Office"
+    },
+    {
+        "id": 23,
+        "item": "Port",
+        "Cat": "Network",
+        "quantity": "50",
+        "InvNum": "",
+        "Brand": "inflink",
+        "Model": "15E",
+        "Specification": "blue color",
+        "Status": "new - stored",
+        "location": "Logical Office"
+    },
+    {
+        "id": 24,
+        "item": "keyboard",
+        "Cat": "Hardware",
+        "quantity": "50",
+        "InvNum": "",
+        "Brand": "inflink",
+        "Model": "15E",
+        "Specification": "blue color",
+        "Status": "new - stored",
+        "location": "Logical Office"
+    },
+    {
+        "id": 25,
+        "item": "Labtop",
+        "Cat": "Hardware",
+        "quantity": "50",
+        "InvNum": "",
+        "Brand": "inflink",
+        "Model": "15E",
+        "Specification": "blue color",
+        "Status": "new - stored",
+        "location": "Logical Office"
+    }
+]
